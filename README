@@ -1,0 +1,10 @@
+# Template for a Sinatra Modular Application 
+	This repo contains a simple template to write an application using Sinatra. This avoids you to start writting you application from the scrath every time.
+
+## How to use it?
+	git clone git@github.com:albertoleal/Sinatra-Template.git
+	cd sinatra-template
+	rake install_dependencies
+	gem install shotgun
+	shotgun
+	firefox http://localhost:9393/ # This command will a firefox instance and load the page.
