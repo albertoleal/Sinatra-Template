@@ -4,8 +4,8 @@
 
 ## How to use it?
 	git clone git@github.com:albertoleal/Sinatra-Template.git
-	cd sinatra-template
+	cd Sinatra-Template
 	rake install_dependencies
 	gem install shotgun
 	shotgun
-	firefox http://localhost:9393/ # This command will a firefox instance and load the page.
+	Open the follow URL in your browser http://localhost:9393/
