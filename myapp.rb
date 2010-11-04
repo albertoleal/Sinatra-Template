@@ -11,6 +11,7 @@ class MyApp < Sinatra::Base
   set :sessions, true
 
   get '/' do
-    'Hello world!'
+	@title = "Hello World!!"
+	erb :welcome
   end
 end
