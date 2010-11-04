@@ -1,6 +1,6 @@
 # Template for a Sinatra Modular Application 
 	This repo contains a simple template to write an application using Sinatra. 
-	This avoids you to start writting your application from the scrath every time.
+	This avoids you to start writting your application from the scratch every time.
 
 ## How to use it?
 	git clone git@github.com:albertoleal/Sinatra-Template.git
